@@ -1,5 +1,5 @@
 ﻿{
-    "name": "Kogane.IEnumerableNearestExtensionMethods",
+    "name": "Kogane.IReadOnlyListNearestExtensionMethods",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],

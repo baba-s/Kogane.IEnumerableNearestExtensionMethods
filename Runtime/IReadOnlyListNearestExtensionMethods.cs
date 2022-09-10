@@ -8,7 +8,7 @@ namespace Kogane
     /// IReadOnlyList 型の拡張メソッド
     /// このスクリプトでは Nearest 系の拡張メソッドを定義
     /// </remarks>
-    public static class IEnumerableNearestExtensionMethods
+    public static class IReadOnlyListNearestExtensionMethods
     {
         //================================================================================
         // Nearest
